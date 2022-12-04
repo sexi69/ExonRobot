@@ -44,16 +44,16 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
     # ᴀᴅᴅ ʏᴏᴜʀ ᴠᴇʀs  (ᴍᴀɪɴ ᴠᴇʀs)
-    API_ID = "11597868"
-    API_HASH = "326ae14ebe620f6a77277f4b979299a9"
-    EVENT_LOGS = "-1001497222182"
-    DATABASE_URI = "postgres://ftmhhlpp:vXFSn6lNyTwI_OOTbGSBbdsQI9hABC1f@ella.db.elephantsql.com/ftmhhlpp"  # elephantsql.com
-    REDIS_URL = "redis://default:imP6xyfvlFsVpzFbciK3dIx9Vde05pav@redis-17127.c239.us-east-1-2.ec2.cloud.redislabs.com:17127/default"  # redis.os
-    MONGO_DB_URL = "mongodb+srv://EXONTESTMONGO:EXONTESTMONGO@cluster0.bviw7ic.mongodb.net/?retryWrites=true&w=majority"  # cloud.mongodb.com/
-    TOKEN = ""
+    API_ID = "16051908"
+    API_HASH = "abf9b83f9ca40cf9f5ba9bf6e6afaa8b"
+    EVENT_LOGS = "-1001713781379"
+    DATABASE_URI = "postgres://ovgsprgz:53kb-OVwyUsc0hSlGnnERFxu4gQbEm3E@peanut.db.elephantsql.com/ovgsprgz"  # elephantsql.com
+    REDIS_URL = "redis://default:tE0iCV6RD5xcd7vNSpek5MGV4QbqhkP1@redis-10501.c212.ap-south-1-1.ec2.cloud.redislabs.com:10501/starxrobot"  # redis.os
+    MONGO_DB_URL = "mongodb+srv://starxrobot:starxrobot@cluster0.jnhhbus.mongodb.net/testretryWrites=true&w=majority"  # cloud.mongodb.com/
+    TOKEN = "5746008573:AAHk9t2qr5qwP_gk41hCDfIRxTIgixyORFI"
     OWNER_USERNAME = "Abishnoi1M"
-    OWNER_ID = "1452219013"
-    SUPPORT_CHAT = "AbishnoiMF"
+    OWNER_ID = "5307865914"
+    SUPPORT_CHAT = "TDN_CHAT"
 
     # ɴᴏᴛ ɪᴍᴘᴏʀᴛᴀɴᴛ ᴢᴏɴᴇ, ɴᴏ ɴᴇᴇᴅ ᴛᴏ ᴇᴅɪᴛ
     MONGO_DB = "Exon"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
