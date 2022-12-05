@@ -1,2 +1,2 @@
-#web: python3 -m Exon
+web: python -m http.server $PORT
 worker: python3 -m Exon
