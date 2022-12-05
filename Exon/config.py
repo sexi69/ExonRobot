@@ -46,12 +46,12 @@ class Config(object):
     # ᴀᴅᴅ ʏᴏᴜʀ ᴠᴇʀs  (ᴍᴀɪɴ ᴠᴇʀs)
     API_ID = "16051908"
     API_HASH = "abf9b83f9ca40cf9f5ba9bf6e6afaa8b"
-    EVENT_LOGS = "-1001713781379"
+    EVENT_LOGS = "-1001788925502"
     DATABASE_URI = "postgres://ovgsprgz:53kb-OVwyUsc0hSlGnnERFxu4gQbEm3E@peanut.db.elephantsql.com/ovgsprgz"  # elephantsql.com
     REDIS_URL = "redis://default:tE0iCV6RD5xcd7vNSpek5MGV4QbqhkP1@redis-10501.c212.ap-south-1-1.ec2.cloud.redislabs.com:10501/starxrobot"  # redis.os
     MONGO_DB_URL = "mongodb+srv://starxrobot:starxrobot@cluster0.jnhhbus.mongodb.net/testretryWrites=true&w=majority"  # cloud.mongodb.com/
     TOKEN = "5746008573:AAHk9t2qr5qwP_gk41hCDfIRxTIgixyORFI"
-    OWNER_USERNAME = "Abishnoi1M"
+    OWNER_USERNAME = "SexyAaditya"
     OWNER_ID = "5307865914"
     SUPPORT_CHAT = "TDN_CHAT"
 
@@ -62,7 +62,7 @@ class Config(object):
     DONATION_LINK = "t.me/AbishnoiMF"
     HELP_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
     START_IMG = "https://telegra.ph/file/14d1f98500af1132e5460.jpg"
-    UPDATES_CHANNEL = "Abishnoi_bots"
+    UPDATES_CHANNEL = "saikostar_xd"
     INFOPIC = False
     GENIUS_API_TOKEN = "28jwoKAkskaSjsnsksAjnwjUJwj"
     SPAMWATCH_API = None
@@ -83,7 +83,7 @@ class Config(object):
     ALLOW_EXCL = []
     ALLOW_CHATS = True
     CERT_PATH = []
-    SPAMWATCH_SUPPORT_CHAT = "AbishnoiMF"
+    SPAMWATCH_SUPPORT_CHAT = "tdn_chat"
     BOT_API_URL = "https://api.telegram.org/bot"  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     DRAGONS = get_user_list("elevated_users.json", "sudos")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
     DEV_USERS = get_user_list("elevated_users.json", "devs")  # ⚠️ ᴅᴏɴ'ᴛ ᴇᴅɪᴛ
